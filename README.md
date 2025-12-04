@@ -56,8 +56,9 @@ Output Graph:
 
 
 Tablular Column:
+![WhatsApp Image 2025-12-04 at 3 41 32 PM](https://github.com/user-attachments/assets/a80b00dc-93e6-404e-8bba-93ee9462989b)
 
-![WhatsApp Image 2025-11-25 at 10 39 24 PM](https://github.com/user-attachments/assets/9c74dae9-8b07-491e-8a75-6f4c2b8add19)
+
 
 Result:
 
